@@ -13,7 +13,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Myllena Oliveira, student from Brazil 
+  Hi, I'm Myllena Oliveira, student from Brazil.
   <br>
   <br>
   🎓 I'm currently studying for a B.Sc. in Analysis and Systems Development at <a href="http://www.pe.senac.br/">SENAC PE</a>

@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**Myllena-Oliveira/Myllena-Oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Myllena-Oliveira.Myllena-Oliveira">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Myllena+Oliveira...;Nice+to+have+you+here!+😄;&font=Fira%20Code&center=true&width=380&height=50">
+</p> </h1>
+<h5 align="center">
+  <code>
+    <a href="https://www.linkedin.com/in/myllena-oliveira-2301151b0/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="mailto:myllenahsoliveira@gmail.com" title="Gmail Profile"><img width="22" src="images/gmail.png"> HackerRank</a></code>
+      
+</h5>

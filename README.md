@@ -5,7 +5,7 @@
 </p> </h1>
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/myllena-oliveira-2301151b0/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="mailto:myllenahsoliveira@gmail.com" title="Gmail Profile"><img width="22" src="images/gmail.png"> HackerRank</a></code>
+    <a href="https://www.linkedin.com/in/myllena-oliveira-2301151b0/" title="LinkedIn Profile"><img width="22" src="linkedin.svg"> LinkedIn</a></code>
+  <code><a href="mailto:myllenahsoliveira@gmail.com" title="Gmail Profile"><img width="22" src="gmail.svg"> Gmail</a></code>
       
 </h5>

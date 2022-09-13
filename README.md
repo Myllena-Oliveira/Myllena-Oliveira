@@ -18,8 +18,6 @@
   <br>
   🎓 I'm currently studying for a B.Sc. in Analysis and Systems Development at <a href="http://www.pe.senac.br/">SENAC PE</a>
   <br>
-  🎓 And Bachelor of Science in Chemistry with Brazilian Teaching License at <a href="http://www.ufrpe.br/">UFRPE</a>  [Expected Graduation: December 2023]
-  <br>
   💻 I love writing code, learn anythings about it and design is my passion 
   <br>
   📚 I'm currently learning HTML5, CSS3, JavaScript, C# and .NET

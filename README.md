@@ -20,7 +20,7 @@
   <br>
   💻 I love writing code, learn anythings about it and design is my passion 
   <br>
-  📚 I'm currently learning HTML5, CSS3, JavaScript, C# and .NET
+  📚 I'm currently learning HTML5, CSS3 and JavaScript
   <br>
 </p>
 

@@ -42,5 +42,4 @@
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Myllena-Oliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="100%"/>
 </p>

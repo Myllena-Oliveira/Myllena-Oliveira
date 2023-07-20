@@ -18,9 +18,9 @@
   <br>
   🎓 I'm currently studying for a B.Sc. in Analysis and Systems Development at <a href="http://www.pe.senac.br/">SENAC PE</a>
   <br>
-  💻 I love writing code, learn anythings about it and design is my passion 
+  💻 I'm aspiring Software Quality Assurance and I am an intern in the area.
   <br>
-  📚 I'm currently learning HTML5, CSS3 and JavaScript
+  📚 I'm currently reading, learning and practicing about the world of Software Quality
   <br>
 </p>
 

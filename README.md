@@ -16,11 +16,11 @@
   Hi, I'm Myllena Oliveira, student from Brazil.
   <br>
   <br>
-  🎓 I'm currently studying for a B.Sc. in Analysis and Systems Development at <a href="http://www.pe.senac.br/">SENAC PE</a>
+  🎓 IGraduated in Systems Analysis and Development at <a href="http://www.pe.senac.br/">SENAC PE</a>
   <br>
-  💻 I'm aspiring Software Quality Assurance and I am an intern in the area.
+  💻 I am working in the Software Quality Assurance area as a junior analyst.
   <br>
-  📚 I'm currently reading, learning and practicing about the world of Software Quality
+  📚 I'm currently reading, learning and practicing about the world of test automation
   <br>
 </p>
 
